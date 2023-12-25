@@ -1,18 +1,9 @@
-## Getting Started
+## Simple Flappy Bird
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+I made a simple flappy bird copy because... Why not?
 
-## Folder Structure
+## Licence
 
-The workspace contains two folders by default, where:
+You can use this for whatever purposes. Steal my code idc
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+`By: Mathijs Klaver`
